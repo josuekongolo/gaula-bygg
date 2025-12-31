@@ -1,0 +1,13 @@
+# GAULA BYGG AS - robots.txt
+# https://www.gaulabygg.no
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://www.gaulabygg.no/sitemap.xml
+
+# Crawl-delay (optional, for rate limiting)
+# Crawl-delay: 10
